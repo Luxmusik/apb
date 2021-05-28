@@ -1,0 +1,12 @@
+{
+  "version": "2.2.0",
+  "name": "@abp/owl.carousel",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@abp/core": "^2.2.0",
+    "owl.carousel": "^2.3.4"
+  },
+  "gitHead": "d5707967977fb14328661ae403c41eaa679ee263"
+}
