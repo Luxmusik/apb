@@ -1,0 +1,10 @@
+{
+  "culture": "pt-BR",
+  "texts": {
+    "Permission:Blogging": "Blog",
+    "Permission:Blogs": "Blogs",
+    "Permission:Posts": "Postagens",
+    "Permission:Tags": "Etiquetas",
+    "Permission:Comments": "Comentários"
+  }
+}

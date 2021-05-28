@@ -1,0 +1,10 @@
+{
+  "culture": "cs",
+  "texts": {
+    "Permission:Blogging": "Blog",
+    "Permission:Blogs": "Blogy",
+    "Permission:Posts": "Příspěvky",
+    "Permission:Tags": "Tagy",
+    "Permission:Comments": "Komentáře"
+  }
+}
