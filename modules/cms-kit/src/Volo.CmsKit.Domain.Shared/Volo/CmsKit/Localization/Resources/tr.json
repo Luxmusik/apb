@@ -1,0 +1,29 @@
+{
+  "culture": "tr",
+  "texts": {
+    "CommentAuthorizationExceptionMessage": "Bu yorumları görebilmek için yetki gerekir.",
+    "Comments": "Yorumlar",
+    "Delete": "Sil",
+    "Edit": "Düzenle",
+    "LoginToAddComment": "Yorum yapmak için giriş yap",
+    "LoginToRate": "Oylamak için giriş yapın",
+    "LoginToReply": "Cevap vermek için giriş yap",
+    "MessageDeletionConfirmationMessage": "Bu yorum tamamen silinecektir",
+    "Permission:CmsKit": "CmsKit",
+    "Permission:TagManagement": "Etiket Yönetimi",
+    "Permission:TagManagement.Create": "Etiket Oluşturma",
+    "Permission:TagManagement.Delete": "Etiket Silme",
+    "Permission:TagManagement.Update": "Etiket Güncelleme",
+    "PickYourReaction": "Tepkinizi seçin",
+    "RatingUndoMessage": "Oylamanız geri alınacak.",
+    "Reply": "Cevapla",
+    "Send": "Gönder",
+    "Star": "Yıldız",
+    "TagDeletionConfirmationMessage": "'{0}' etiketini silmek istediğinize emin misiniz?",
+    "Tags": "Etiketler",
+    "Undo": "Geri al",
+    "Update": "Güncelle",
+    "YourComment": "Yorumunuz",
+    "YourReply": "Cevabınız"
+  }
+}
