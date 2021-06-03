@@ -10,7 +10,7 @@
   "schematics": "./collection.json",
   "dependencies": {
     "@angular-devkit/core": "~11.0.2",
-    "@angular-devkit/schematics": "~11.0.2",
+    "@angular-devkit/schematics": "~11.2.12",
     "got": "^11.5.2",
     "jsonc-parser": "^2.3.0",
     "should-quote": "^1.0.0",
