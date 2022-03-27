@@ -3,6 +3,12 @@
   "name": "client-simulation-web",
   "private": true,
   "dependencies": {
-    "@abp/aspnetcore.mvc.ui.theme.basic": "^4.3.0"
-  }
+    "@abp/aspnetcore.mvc.ui.theme.basic": "^4.3.0",
+    "@snyk/protect": "latest"
+  },
+  "scripts": {
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
+  },
+  "snyk": true
 }
