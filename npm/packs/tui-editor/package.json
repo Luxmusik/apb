@@ -8,7 +8,7 @@
     "@abp/codemirror": "~4.3.0",
     "@abp/highlight.js": "~4.3.0",
     "@abp/jquery": "~4.3.0",
-    "@abp/markdown-it": "~4.3.0",
+    "@abp/markdown-it": "~5.2.0",
     "tui-code-snippet": "^2.3.2",
     "@toast-ui/editor": "^2.5.1"
   },
