@@ -8,7 +8,7 @@
     "@abp/aspnetcore.mvc.ui.theme.shared": "~4.3.0",
     "@abp/owl.carousel": "~4.3.0",
     "@abp/prismjs": "~4.3.0",
-    "@abp/tui-editor": "~4.3.0"
+    "@abp/tui-editor": "~5.1.0"
   },
   "gitHead": "bb4ea17d5996f01889134c138d00b6c8f858a431"
 }
