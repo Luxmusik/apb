@@ -190,6 +190,11 @@
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-free/-/fontawesome-free-5.13.1.tgz#c53b4066edae16cd1fd669f687baf031b45fb9d6"
   integrity sha512-D819f34FLHeBN/4xvw0HR0u7U2G7RqjPSggXqf7LktsxWQ48VAfGwvMrhcVuaZV2fF069c/619RdgCCms0DHhw==
 
+"@snyk/protect@^1.1100.0":
+  version "1.1100.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1100.0.tgz#52624c6fe9270729237215a88d1c798f28d2fcfb"
+  integrity sha512-nbdLbao8fqrgeWwO+RQj3Bdz0qoSeuYElHNjmH0fMiKJ1/MxR8tcma8P2xHXkDW6wYbYlUznf8gGhxAXDBe+wg==
+
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
