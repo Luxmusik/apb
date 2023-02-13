@@ -11,7 +11,7 @@
     "glob": "^7.1.6",
     "gulp": "^4.0.2",
     "merge-stream": "^2.0.0",
-    "micromatch": "^4.0.2",
+    "micromatch": "^4.0.5",
     "path": "^0.12.7"
   },
   "gitHead": "bb4ea17d5996f01889134c138d00b6c8f858a431"
